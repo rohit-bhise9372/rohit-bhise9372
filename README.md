@@ -51,6 +51,8 @@ const rohit = {
 ### Tools
 ![Tools](https://dzdw2zccyu2wu.cloudfront.net/overview/Tools&DevOps.svg)
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind" />
+
 
 </div>
 
