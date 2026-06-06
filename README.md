@@ -43,15 +43,13 @@ const rohit = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css,html" />
 
 ### Backend
-![NodeJS](https://dzdw2zccyu2wu.cloudfront.net/overview/Backend.svg)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 ### Tools
-![Tools](https://dzdw2zccyu2wu.cloudfront.net/overview/Tools&DevOps.svg)
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
 
 
 </div>
