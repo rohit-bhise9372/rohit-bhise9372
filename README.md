@@ -14,76 +14,87 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Full Stack Developer | BSc IT Student | Cloud Enthusiast
+<p align="center">
+  <strong>Full Stack Developer </strong>
+</p>
 
-Building scalable, production-ready web applications with clean architecture and modern tech
+<p align="center">
+  Building scalable, production-ready web applications with clean architecture and modern tech
+</p>
 
-🚀 About Me
+
+## 🚀 About Me
+
 I'm a passionate full stack developer focused on creating robust, scalable applications that solve real problems. My approach centers on clean code, thoughtful architecture, and continuous learning through building.
 
-const sahil = {
-  location: "Mumbai, India",
-  education: "BSc in Information Technology",
-  currentFocus: ["Backend Engineering", "Frontend Engineering", "Cloud Architecture", "System Design"],
-  interests: ["Distributed Systems", "Performance Optimization", "DevOps"],
+```javascript
+const rohit = {
+  location: "Pune, India",
+  education: "B.tech in E&TC",
+  currentFocus: ["Backend Engineering", "Frontend Engineering"],
+  interests: ["Distributed Systems", "Performance Optimization"],
   philosophy: "Learning by building. Every project teaches more about systems, performance and design.",
-  openTo: ["Collaborations", "Internships", "Open Source Contributions"]
+  openTo: ["Collaborations", "Internships"]
 };
-🎯 What I'm Working On
-Blog Application
+```
 
-Secure authentication and authorization system
-Modular, scalable architecture
-Intuitive UI/UX workflows
-Currently Exploring:
+## 💻 Tech Stack
 
-Scalable backend architectures
-Distributed systems and microservices
-Cloud-native development practices
-CI/CD Pipelines
-💻 Tech Stack
-Frontend
-React
+<div align="center">
 
-Backend
-NodeJS
+### Frontend
+![React](https://dzdw2zccyu2wu.cloudfront.net/overview/Frontend.svg)
 
-Tools & DevOps
-Tools
+### Backend
+![NodeJS](https://dzdw2zccyu2wu.cloudfront.net/overview/Backend.svg)
 
-Cloud & Integration
-Cloud
+### Tools
+![Tools](https://dzdw2zccyu2wu.cloudfront.net/overview/Tools&DevOps.svg)
 
-Core Technologies:
 
-Frontend: React, Next.js, TypeScript, Tailwind CSS
-Backend: Node.js, Express, RESTful APIs, WebSockets
-Database: MongoDB, Redis
-DevOps: Docker, Git, CI/CD
-Cloud: AWS, GCD, Cloudflare
-🎨 Featured Projects
-StoreMyStuff
-Full-stack cloud storage platform combining modern web tech with AWS infrastructure
+</div>
 
-Tech Stack: MERN Stack, AWS S3, Redis, Razorpay
+**Core Technologies:**
+- **Frontend:** React, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express, RESTful APIs
+- **Database:** MongoDB
 
-Key Features:
 
-Secure user registration and login system
-Drag-and-drop file upload with progress indicators
-File sharing with links and permissions
-Folder creation and organization
-File preview and download capabilities
-Responsive design for mobile and desktop
-Storage quota management
-CICD-SERVER
-Production-ready CI/CD server built without third-party platforms—complete control over your deployment pipeline
 
-Tech: Node.js, Shell Scripting, Git Hooks, PM2
-Features:
+## 🤝 Let's Connect
 
-Automated build and deployment on git push
-Monorepo support with independent project pipelines
-Custom deployment scripts and configurations
-Webhook-triggered builds
-Build logs and notification system
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="mailto:rohitbhise9372@gmail.com">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/gmail.png" width="50" /><br/>
+          <sub><b>Email Me</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://linkedin.com/in/rohitbhise9372">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/linkedin.png" width="50" /><br/>
+          <sub><b>Connect on LinkedIn</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+  <a href="https://x.com/RohitBhise009">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="50" /><br/>
+    <sub><b>Follow on X</b></sub>
+  </a>
+</td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+
+*"The best way to predict the future is to build it."* – Alan Kay
+
+> **Always learning. Always building. Always improving.**
+
+
+</div>
+
