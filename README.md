@@ -43,7 +43,7 @@ const rohit = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css,html" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
