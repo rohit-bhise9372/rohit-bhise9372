@@ -74,7 +74,7 @@ const rohit = {
       </td>
       <td align="center" width="200">
         <a href="https://linkedin.com/in/rohitbhise9372">
-          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/linkedin.png" width="50" /><br/>
+          <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50" /><br/>
           <sub><b>Connect on LinkedIn</b></sub>
         </a>
       </td>
