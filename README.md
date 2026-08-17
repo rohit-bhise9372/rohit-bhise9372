@@ -68,7 +68,7 @@ const rohit = {
     <tr>
       <td align="center" width="200">
         <a href="mailto:rohitbhise9372@gmail.com">
-          <img src="[https://i.pinimg.com/originals/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg?nii=t](https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle-thumbnail.png)" width="50" /><br/>
+          <img src="https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle-thumbnail.png" width="50" /><br/>
           <sub><b>Email Me</b></sub>
         </a>
       </td>
