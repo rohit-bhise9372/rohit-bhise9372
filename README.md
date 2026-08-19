@@ -49,7 +49,7 @@ const rohit = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman" />
 
 
 </div>
